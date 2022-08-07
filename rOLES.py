@@ -9,7 +9,7 @@ oleg = ComponentsBot(">")
 @oleg.event
 async def on_ready():
     print('\nКакая-то лютая ху*ня родился, сучка\n', ('=' * 33))
-    await oleg.change_presence(status = discord.Status.idle, activity = discord.Game('"монетка туда - сюда"')) #статус бота
+    await oleg.change_presence(status = discord.Status.online, activity = discord.Game('"монетка туда - сюда"')) #статус бота
 
 @oleg.command()
 async def button(self, ctx):
