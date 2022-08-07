@@ -69,4 +69,4 @@ async def on_button_click(self, interaction):
 		pass	
 
 
-oleg.run('NzM5NTQ1NzEyNjEzNzg1NzAy.XycBnQ.JeBNCHAL2T5DKg-EHIdVIlHm6mI')
+oleg.run('TOKEN')
