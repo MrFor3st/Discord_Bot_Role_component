@@ -1,2 +1,2 @@
 discord
-discord_components == 2.1.2
+discord_components == <2.1.2>
